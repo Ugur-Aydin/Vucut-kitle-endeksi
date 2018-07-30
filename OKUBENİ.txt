@@ -1,0 +1,14 @@
+Komut istemini yönetici olarak çalýþtýrýnýz ve ardýndan;
+
+"cd Dosyanýn\bulunduðu\konum" komutunu giriniz.
+
+ardýndan;
+
+"javac vki.java" komutunu giriniz.
+
+Birkaç saniyelik iþlemden sonra komut istemi bir sorun çýkarmadýðý durumda;
+
+"java vki"komutu ile programý çalýþtýrabilirsiniz.
+
+
+NOT:Programý kullanýrken gereken yerlerde virgül kullanmayý unutmayýnýz.(Boy ve kilo deðerlerini yazarken)
